@@ -90,4 +90,4 @@ Track By does not work. Use at your own peril.
 </td></tr>
 </table>
 
-Please contact contact@scalyr.com for any questions or problems.
+Please contact contact@scalyr.com for any questions or problems..
